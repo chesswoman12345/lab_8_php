@@ -1,6 +1,4 @@
 # lab\_8\_php
 
-
-
-<video src='demo-php-java.mp4' width=180/>
+https://github.com/user-attachments/assets/0fd14a89-783e-4e4f-b90d-ba74a38356a0
 
